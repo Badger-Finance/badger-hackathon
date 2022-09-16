@@ -4,4 +4,4 @@ The Badger Hackathon repo is a playground to be used for different hackathon and
 
 ## Get Started
 
-Select the relevant branch from the dropdown above, check the `README.md` and reach out in the [Badger Discord](https://discord.gg/ftKvatzSKA)
+Select the relevant branch from the dropdown above, check the `README.md` and reach out in the [Badger Discord](https://discord.gg/badgerdao)
